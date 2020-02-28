@@ -24,3 +24,17 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+### Special Notes
+npm install -g vue-cli
+
+vue --version
+vue create <project-name> / quasar init <project-name>
+  npm run serve #for manual
+Using UI
+  vue ui
+
+
+npm install -g @quasar/cli
+quasar create <project-name> -b dev
+quasar dev
